@@ -1,0 +1,9 @@
+print('mbashir')
+print('mbashira')
+print('mbashirb')
+"""print('mbashirc')
+print('mbashird')
+print('mbashire')
+print('mbashirf')"""
+print('mbashirg')
+print('mbashirh')
